@@ -1,6 +1,6 @@
 {
   "android": {
-    "minBuild": 0,
+    "minBuild": 11,
     "recommendedBuild": 11,
     "url": "https://play.google.com/store/apps/details?id=sk.wolf.vlese"
   },
