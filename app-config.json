@@ -1,7 +1,7 @@
 {
   "android": {
-    "minBuild": 10,
-    "recommendedBuild": 10,
+    "minBuild": 0,
+    "recommendedBuild": 0,
     "url": "https://play.google.com/store/apps/details?id=sk.wolf.vlese"
   },
   "ios": {
